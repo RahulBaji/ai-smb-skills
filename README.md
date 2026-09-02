@@ -1,1 +1,1 @@
-Skill file that combines Golratt's Mafia Offer, Amazon's Working Backward methodology and AAARRR metrics
+Skill file that combines Goldratt's Mafia Offer, Amazon's Working Backward methodology and AAARRR metrics
